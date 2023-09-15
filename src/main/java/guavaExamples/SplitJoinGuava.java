@@ -1,7 +1,6 @@
 package guavaExamples;
 
 import java.util.Arrays;
-
 import com.google.common.base.Joiner;
 import com.google.common.base.Splitter;
 
